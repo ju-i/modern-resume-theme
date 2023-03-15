@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: <src="1.jpg" width="400" height="450">
+about_profile_image: <scr="1.jpg" width="400" height="450">
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요 주이입니다 add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
